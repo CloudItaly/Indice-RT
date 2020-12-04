@@ -50,5 +50,30 @@
 "Veneto": "1.2",
 "note": "Report 16-22 novembre",
 "link": "http://www.salute.gov.it/imgs/C_17_notizie_5196_1_file.pdf"
+},
+  {
+"data" : "2020-12-04T17:00:00", 
+"Abruzzo" : "0.9", 
+"Basilicata" : "0.86", 
+"Calabria" : "0.95", 
+"Campania" : "0.84",
+"Emilia Romagna" : "0.99",
+"Friuli Venezia Giulia" : "1.03", 
+"Lazio" : "0.94", 
+"Liguria" : "0.69", 
+"Lombardia" : "0.97", 
+"Marche" : "0.81", 
+"Molise" : "1.37", 
+"Piemonte" : "0.76", 
+"Puglia" : "0.92", 
+"Sardegna" : "0.67", 
+"Sicilia" : "0.84", 
+"Trentino Alto Adige/PA Trento" : "0.83",
+"Toscana" : "1.03", 
+"Umbria" : "0.71", 
+"Valle d'Aosta " : "0.81", 
+"Veneto" : "1.11",
+"note" : "Report 23 novembre - 29 novembre",
+"link" : ""
 }
 ]
