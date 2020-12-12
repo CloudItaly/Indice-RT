@@ -75,5 +75,30 @@
 "Veneto" : "1.11",
 "note" : "Report 23 novembre - 29 novembre",
 "link" : ""
+}, 
+  {
+"data" : "2020-12-11T17:00:00", 
+"Abruzzo" : "0.82", 
+"Basilicata" : "0.66", 
+"Calabria" : "0.76", 
+"Campania" : "0.71",
+"Emilia Romagna" : "0.88",
+"Friuli Venezia Giulia" : "0.91", 
+"Lazio" : "0.82", 
+"Liguria" : "0.68", 
+"Lombardia" : "0.85", 
+"Marche" : "0.87", 
+"Molise" : "1.48", 
+"Piemonte" : "0.68", 
+"Puglia" : "0.87", 
+"Sardegna" : "0.73", 
+"Sicilia" : "0.72", 
+"Trentino Alto Adige/PA Trento" : "0.89",
+"Toscana" : "0.81", 
+"Umbria" : "0.73", 
+"Valle d'Aosta " : "0.67", 
+"Veneto" : "1.01",
+"note" : "Report 30-11 al 6 dicembre",
+"link" : ""
 }
 ]
