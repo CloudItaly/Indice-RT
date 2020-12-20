@@ -100,5 +100,30 @@
 "Veneto" : "0.91",
 "note" : "RT puntuale |  periodo: 30/11 al 6/12",
 "link" : "http://www.salute.gov.it/imgs/C_17_notizie_5216_1_file.pdf"
+},
+  {
+"data" : "2020-12-18T17:00:00", 
+"Abruzzo" : "0.82", 
+"Basilicata" : "0.61", 
+"Calabria" : "0.74", 
+"Campania" : "0.59",
+"Emilia Romagna" : "0.84",
+"Friuli Venezia Giulia" : "0.7", 
+"Lazio" : "1.04", 
+"Liguria" : "0.73", 
+"Lombardia" : "1.02", 
+"Marche" : "0.97", 
+"Molise" : "1.16", 
+"Piemonte" : "0.81", 
+"Puglia" : "0.9", 
+"Sardegna" : "0.83", 
+"Sicilia" : "0.72", 
+"Trentino Alto Adige/PA Trento" : "0.68",
+"Toscana" : "0.68", 
+"Umbria" : "0.75", 
+"Valle d'Aosta " : "0.57", 
+"Veneto" : "0.57",
+"note" : "RT puntuale | periodo: 07/12 al 13/12",
+"link" : "http://www.salute.gov.it/imgs/C_17_notizie_5226_1_file.pdf"
 }
 ]
