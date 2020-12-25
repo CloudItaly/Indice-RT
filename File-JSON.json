@@ -46,7 +46,7 @@
 "Trentino Alto Adige/PA Trento": "0.81",
 "Toscana": "1.2", 
 "Umbria": "0.74", 
-"Valle d'Aosta ": "0.99", 
+"Valle d'Aosta": "0.99", 
 "Veneto": "1.2",
 "note": "Report 16-22 novembre",
 "link": "http://www.salute.gov.it/imgs/C_17_notizie_5196_1_file.pdf"
@@ -71,7 +71,7 @@
 "Trentino Alto Adige/PA Trento" : "0.83",
 "Toscana" : "1.03", 
 "Umbria" : "0.71", 
-"Valle d'Aosta " : "0.81", 
+"Valle d'Aosta" : "0.81", 
 "Veneto" : "1.11",
 "note" : "Report 23 novembre - 29 novembre",
 "link" : ""
@@ -96,7 +96,7 @@
 "Trentino Alto Adige/PA Trento" : "0.91",
 "Toscana" : "0.76", 
 "Umbria" : "0.66", 
-"Valle d'Aosta " : "0.6", 
+"Valle d'Aosta" : "0.6", 
 "Veneto" : "0.91",
 "note" : "RT puntuale |  periodo: 30/11 al 6/12",
 "link" : "http://www.salute.gov.it/imgs/C_17_notizie_5216_1_file.pdf"
@@ -121,9 +121,34 @@
 "Trentino Alto Adige/PA Trento" : "0.68",
 "Toscana" : "0.68", 
 "Umbria" : "0.75", 
-"Valle d'Aosta " : "0.57", 
+"Valle d'Aosta" : "0.57", 
 "Veneto" : "0.57",
 "note" : "RT puntuale | periodo: 07/12 al 13/12",
 "link" : "http://www.salute.gov.it/imgs/C_17_notizie_5226_1_file.pdf"
+}, 
+  {
+"data" : "2020-12-25T17:00:00", 
+"Abruzzo" : "0.7", 
+"Basilicata" : "0.69", 
+"Calabria" : "0.8", 
+"Campania" : "0.65",
+"Emilia Romagna" : "0.82",
+"Friuli Venezia Giulia" : "0.78", 
+"Lazio" : "0.96", 
+"Liguria" : "0.82", 
+"Lombardia" : "0.92", 
+"Marche" : "0.81", 
+"Molise" : "1.02", 
+"Piemonte" : "0.69", 
+"Puglia" : "0.88", 
+"Sardegna" : "0.74", 
+"Sicilia" : "0.74", 
+"Trentino Alto Adige/PA Trento" : "0.68",
+"Toscana" : "0.7", 
+"Umbria" : "0.76", 
+"Valle d'Aosta" : "0.68", 
+"Veneto" : "1.11",
+"note" : "RT puntuale | Report 32 | periodo: 14/12 al 20/12",
+"link" : "http://www.salute.gov.it/imgs/C_17_notizie_5241_1_file.pdf"
 }
 ]
