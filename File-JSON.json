@@ -175,5 +175,30 @@
 "Veneto" : "1.07",
 "note" : "Report 33 | periodo di riferimento: 21/12 al 27/12",
 "link" : "http://www.salute.gov.it/imgs/C_17_notizie_5247_1_file.pdf"
+}, 
+  {
+"data" : "2021-01-08T17:00:00", 
+"Abruzzo" : "0.9", 
+"Basilicata" : "0.83", 
+"Calabria" : "1.14", 
+"Campania" : "0.83",
+"Emilia Romagna" : "1.05",
+"Friuli Venezia Giulia" : "0.91", 
+"Lazio" : "0.98", 
+"Liguria" : "1.02", 
+"Lombardia" : "1.27", 
+"Marche" : "0.93", 
+"Molise" : "1.27", 
+"Piemonte" : "0.95", 
+"Puglia" : "1", 
+"Sardegna" : "1.02", 
+"Sicilia" : "1.04", 
+"Trentino Alto Adige/PA Trento" : "0.81",
+"Toscana" : "0.9", 
+"Umbria" : "1.01", 
+"Valle d'Aosta" : "1.07", 
+"Veneto" : "0.97",
+"note" : "Report 34 | periodo di riferimento: 28/12 al 03/01",
+"link" : "https://www.sanita24.ilsole24ore.com/pdf2010/Editrice/ILSOLE24ORE/QUOTIDIANO_SANITA/Online/_Oggetti_Correlati/Documenti/2021/01/09/Monitoraggio%20Fase%202_%20report_28gennaio_3_dicembre.pdf?uuid=ADTTEMCB"
 }
 ]
