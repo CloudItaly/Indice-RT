@@ -1,7 +1,7 @@
 [{
 "data_inizio" : "10-01-2021", 
-"data_fine" :"15-01-2021",
-"data" :"2021-01-09",
+"data_fine" : "15-01-2021",
+"data" : "2021-01-09",
 "Abruzzo" : "G", 
 "Basilicata" : "G", 
 "Calabria" : "A", 
@@ -25,9 +25,10 @@
 "note" : "",
 "link" : "http://www.salute.gov.it/portale/news/p3_2_4_1_1.jsp?lingua=italiano&menu=salastampa&p=comunicatistampa&id=5731"
 },
+ {
  "data_inizio" : "10-01-2021", 
-"data_fine" :"15-01-2021",
-"data" :"2021-01-09",
+"data_fine" : "15-01-2021",
+"data" : "2021-01-09",
 "Abruzzo" : "G", 
 "Basilicata" : "G", 
 "Calabria" : "A", 
