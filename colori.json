@@ -28,7 +28,7 @@
 }, 
 {
  "data_inizio" : "17-01-2021", 
-"data_fine" : "XX-XX-2021",
+"data_fine" : "31-01-2021",
 "data" : "2021-01-16",
 "Abruzzo" : "A", 
 "Basilicata" : "G", 
@@ -51,6 +51,6 @@
 "Valle d'Aosta" : "A", 
 "Veneto" : "A",
 "note" : "Monitoraggio N.35",
-"link" : ""
+"link" : "http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5272"
 }
 ]
