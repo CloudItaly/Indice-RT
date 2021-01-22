@@ -224,7 +224,8 @@
 "Valle d'Aosta" : "1.19", 
 "Veneto" : "0.96",
 "note" : "Report 35 | periodo di riferimento: 04/01 al 10/01",
-"link" : "http://www.salute.gov.it/imgs/C_17_notizie_5268_0_file.pdf"}, 
+"link" : "http://www.salute.gov.it/imgs/C_17_notizie_5268_0_file.pdf"
+  }, 
 
  {
 "data" : "2021-01-22T17:00:00", 
@@ -249,5 +250,6 @@
 "Valle d'Aosta" : "1.12", 
 "Veneto" : "0.81",
 "note" : "Report 36 | periodo di riferimento: 11/01 al 17/01",
-"link" : "http://www.salute.gov.it/imgs/C_17_notizie_5289_0_file.pdf"},   
+"link" : "http://www.salute.gov.it/imgs/C_17_notizie_5289_0_file.pdf"
+ }
 ]
