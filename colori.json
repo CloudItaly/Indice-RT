@@ -1,7 +1,7 @@
 [
 {
  "data_inizio" : "17-01-2021", 
-"data_fine" : "31-01-2021",
+"data_fine" : "23-01-2021",
 "data" : "2021-01-16",
 "Abruzzo" : "A", 
 "Basilicata" : "G", 
@@ -26,5 +26,34 @@
 "Veneto" : "A",
 "note" : "Monitoraggio N.35",
 "link" : "http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5272"
+},
+ {
+ "data_inizio" : "24-01-2021", 
+"data_fine" : "31-01-2021",
+"data" : "2021-01-23",
+"Abruzzo" : "A", 
+"Basilicata" : "G", 
+"Calabria" : "A", 
+"Campania" : "G",
+"Emilia Romagna" : "A",
+"Friuli Venezia Giulia" : "A", 
+"Lazio" : "A", 
+"Liguria" : "A", 
+"Lombardia" : "R", 
+"Marche" : "A", 
+"Molise" : "G", 
+"Piemonte" : "A", 
+"PA Bolzano/Bozen" : "R",
+"PA Trento" : "G",
+"Puglia" : "A", 
+"Sardegna" : "G", 
+"Sicilia" : "R", 
+"Toscana" : "G", 
+"Umbria" : "A", 
+"Valle d'Aosta" : "A", 
+"Veneto" : "A",
+"note" : "",
+"link" : "http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5291"
 }
+ 
 ]
