@@ -2,8 +2,8 @@
 
 <h2> Descrizione reposity </h2>
 Questa repository si compone di due file JSON:
-* Gli indici RT Puntuali (IND3.2) presi ogni settimana dal PDF pubblicato dal Ministero della Salute/ISS;
-* I colori delle zone, con la data di inizio e fine. 
++  Gli indici RT Puntuali (IND3.2) presi ogni settimana dal PDF pubblicato dal Ministero della Salute/ISS;
++  I colori delle zone, con la data di inizio e fine. 
 
 <h2> Modalità di aggiornamento </h2>
 I dati vengono aggiornati manualmente senza sistemi automatici di grab. Per questo:
