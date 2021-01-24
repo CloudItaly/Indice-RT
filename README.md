@@ -1,4 +1,4 @@
-<h1>Reposity Indice RT + Zone Colori</h1> <br />
+<h1>Reposity [NON UFFICIALE] Indice RT + Zone Colori</h1> <br />
 
 <h2> Descrizione reposity </h2>
 Questa repository si compone di due file JSON:
