@@ -290,5 +290,31 @@
 "Veneto" : "0.61",
 "note" : "Report 37 | periodo di riferimento: 18/01/2021 al 24/01/2021",
 "link" : "http://www.salute.gov.it/imgs/C_17_monitoraggi_15_0_fileNazionale.pdf"
+ }, 
+{
+"data" : "2021-02-05T17:00:00", 
+"Abruzzo" : "0.99", 
+"Basilicata" : "0.63", 
+"Calabria" : "0.81", 
+"Campania" : "0.78",
+"Emilia Romagna" : "0.83",
+"Friuli Venezia Giulia" : "1.03", 
+"Lazio" : "0.8", 
+"Liguria" : "0.95", 
+"Lombardia" : "0.94", 
+"Marche" : "0.95", 
+"Molise" : "0.9", 
+"Piemonte" : "0.78", 
+"PA Bolzano/Bozen" : "1.06",
+"PA Trento" : "0.61",
+"Puglia" : "0.91", 
+"Sardegna" : "0.75", 
+"Sicilia" : "0.73", 
+"Toscana" : "0.98", 
+"Umbria" : "1.18", 
+"Valle d'Aosta" : "0.85", 
+"Veneto" : "0.63",
+"note" : "Report 38 | periodo di riferimento: 25/01/2021 al 31/01/2021",
+"link" : "http://www.salute.gov.it/imgs/C_17_monitoraggi_17_0_fileNazionale.pdf"
  }
 ]
