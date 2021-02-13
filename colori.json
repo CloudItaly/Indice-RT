@@ -113,7 +113,7 @@
 }, 
  {
  "data_inizio" : "11-02-2021", 
-"data_fine" : "14-02-2021",
+"data_fine" : "13-02-2021",
 "data" : "2021-02-11",
 "Abruzzo" : "G", 
 "Basilicata" : "G", 
@@ -139,6 +139,34 @@
 "note" : "",
 "link" : "in attesa del comunicato ufficiale"
 }
- 
+ , 
+ {
+ "data_inizio" : "14-02-2021", 
+"data_fine" : "21-02-2021",
+"data" : "2021-02-13",
+"Abruzzo" : "A", 
+"Basilicata" : "G", 
+"Calabria" : "G", 
+"Campania" : "G",
+"Emilia Romagna" : "G",
+"Friuli Venezia Giulia" : "G", 
+"Lazio" : "G", 
+"Liguria" : "A", 
+"Lombardia" : "G", 
+"Marche" : "G", 
+"Molise" : "G", 
+"Piemonte" : "G", 
+"PA Bolzano/Bozen" : "R",
+"PA Trento" : "A",
+"Puglia" : "G", 
+"Sardegna" : "G", 
+"Sicilia" : "G", 
+"Toscana" : "A", 
+"Umbria" : "A", 
+"Valle d'Aosta" : "G", 
+"Veneto" : "G",
+"note" : "",
+"link" : "in attesa del comunicato ufficiale"
+}
  
 ]
