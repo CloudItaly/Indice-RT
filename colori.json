@@ -142,7 +142,7 @@
  , 
  {
  "data_inizio" : "14-02-2021", 
-"data_fine" : "21-02-2021",
+"data_fine" : "20-02-2021",
 "data" : "2021-02-13",
 "Abruzzo" : "A", 
 "Basilicata" : "G", 
@@ -167,6 +167,35 @@
 "Veneto" : "G",
 "note" : "",
 "link" : "http://www.salute.gov.it/portale/news/p3_2_4_1_1.jsp?lingua=italiano&menu=salastampa&p=comunicatistampa&id=5761"
+}
+ , 
+ {
+ "data_inizio" : "21-02-2021", 
+"data_fine" : "27-02-2021",
+"data" : "2021-02-20",
+"Abruzzo" : "A", 
+"Basilicata" : "G", 
+"Calabria" : "G", 
+"Campania" : "A",
+"Emilia Romagna" : "A",
+"Friuli Venezia Giulia" : "G", 
+"Lazio" : "G", 
+"Liguria" : "A", 
+"Lombardia" : "G", 
+"Marche" : "G", 
+"Molise" : "A", 
+"Piemonte" : "G", 
+"PA Bolzano/Bozen" : "A",
+"PA Trento" : "A",
+"Puglia" : "G", 
+"Sardegna" : "G", 
+"Sicilia" : "G", 
+"Toscana" : "A", 
+"Umbria" : "A", 
+"Valle d'Aosta" : "G", 
+"Veneto" : "G",
+"note" : "",
+"link" : "http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5335"
 }
  
 ]
