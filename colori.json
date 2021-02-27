@@ -196,6 +196,32 @@
 "Veneto" : "G",
 "note" : "",
 "link" : "http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5335"
-}
- 
-]
+}, 
+ {
+ "data_inizio" : "01-03-2021", 
+ "data_fine" : "07-03-2021",
+ "data" : "2021-02-28",
+"Abruzzo" : "A", 
+"Basilicata" : "R", 
+"Calabria" : "G", 
+"Campania" : "A",
+"Emilia Romagna" : "A",
+"Friuli Venezia Giulia" : "G", 
+"Lazio" : "G", 
+"Liguria" : "G", 
+"Lombardia" : "A", 
+"Marche" : "A", 
+"Molise" : "R", 
+"Piemonte" : "A", 
+"PA Bolzano/Bozen" : "A",
+"PA Trento" : "A",
+"Puglia" : "G", 
+"Sardegna" : "B", 
+"Sicilia" : "G", 
+"Toscana" : "A", 
+"Umbria" : "A", 
+"Valle d'Aosta" : "G", 
+"Veneto" : "G",
+"note" : "", 
+"link" : ""
+}]
