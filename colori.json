@@ -253,4 +253,34 @@
 "Veneto" : "A",
 "note" : "http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5359", 
 "link" : "In attesa del link"
-}]
+}
+, 
+{
+ "data_inizio" : "15-03-2021", 
+ "data_fine" : "21-03-2021",
+ "data" : "2021-03-12",
+"Abruzzo" : "A", 
+"Basilicata" : "A", 
+"Calabria" : "A", 
+"Campania" : "R",
+"Emilia Romagna" : "R",
+"Friuli Venezia Giulia" : "R", 
+"Lazio" : "R", 
+"Liguria" : "A", 
+"Lombardia" : "R", 
+"Marche" : "R", 
+"Molise" : "R", 
+"Piemonte" : "R", 
+"PA Bolzano/Bozen" : "A",
+"PA Trento" : "R",
+"Puglia" : "R", 
+"Sardegna" : "B", 
+"Sicilia" : "A", 
+"Toscana" : "A", 
+"Umbria" : "A", 
+"Valle d'Aosta" : "A", 
+"Veneto" : "R",
+"note" : "http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5367",
+"link" : "http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5367"
+}
+]
