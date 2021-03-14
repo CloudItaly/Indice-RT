@@ -2,14 +2,121 @@
 
 
 {
-"data" : "12-03-2021", 
-"attualmente_positivi" : "130",
+"data" : "17/10/2020", 
+"attualmente_positivi" : "45",
 "link" : "https"
 }, 
 
 {
-"data" : "13-03-2021", 
-"attualmente_positivi" : "100",
+"data" : "23/10/2020", 
+"attualmente_positivi" : "90",
 "link" : "https"
 }
+, 
+
+{
+"data" : "31/10/2020", 
+"attualmente_positivi" : "182",
+"link" : "https"
+}
+, 
+
+{
+"data" : "09/11/2020", 
+"attualmente_positivi" : "195",
+"link" : "https"
+}
+, 
+
+{
+"data" : "13/11/2020", 
+"attualmente_positivi" : "205",
+"link" : "https"
+}
+, 
+
+{
+"data" : "14/11/2020", 
+"attualmente_positivi" : "215",
+"link" : "https"
+}
+, 
+
+{
+"data" : "20/11/2020", 
+"attualmente_positivi" : "255",
+"link" : "https"
+}
+, 
+
+{
+"data" : "29/11/2020", 
+"attualmente_positivi" : "380",
+"link" : "https"
+}
+, 
+
+{
+"data" : "11/12/2020", 
+"attualmente_positivi" : "250",
+"link" : "https"
+}
+, 
+
+{
+"data" : "29/12/2020", 
+"attualmente_positivi" : "380",
+"link" : "https"
+}
+, 
+
+{
+"data" : "05/01/2021", 
+"attualmente_positivi" : "430",
+"link" : "https"
+}
+, 
+
+{
+"data" : "17/01/2021", 
+"attualmente_positivi" : "380",
+"link" : "https"
+}
+, 
+
+{
+"data" : "24/01/2021", 
+"attualmente_positivi" : "357",
+"link" : "https"
+}
+, 
+
+{
+"data" : "30/01/2021", 
+"attualmente_positivi" : "298",
+"link" : "https"
+}
+, 
+
+{
+"data" : "12/02/2021", 
+"attualmente_positivi" : "180",
+"link" : "https"
+}
+, 
+
+{
+"data" : "24/02/2021", 
+"attualmente_positivi" : "160",
+"link" : "https"
+}
+
+, 
+
+{
+"data" : "11/03/2021", 
+"attualmente_positivi" : "232",
+"link" : "https://m.facebook.com/1026799124050958/posts/3995732313824276/?d=n"
+}
+
 ]
