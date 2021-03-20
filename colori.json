@@ -282,5 +282,36 @@
 "Veneto" : "R",
 "note" : "http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5367",
 "link" : "http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5367"
+}, 
+ , 
+ 
+ {
+ "data_inizio" : "22-03-2021", 
+ "data_fine" : "28-03-2021",
+ "data" : "2021-03-19",
+"Abruzzo" : "A", 
+"Basilicata" : "A", 
+"Calabria" : "A", 
+"Campania" : "R",
+"Emilia Romagna" : "R",
+"Friuli Venezia Giulia" : "R", 
+"Lazio" : "R", 
+"Liguria" : "A", 
+"Lombardia" : "R", 
+"Marche" : "R", 
+"Molise" : "A", 
+"Piemonte" : "R", 
+"PA Bolzano/Bozen" : "A",
+"PA Trento" : "R",
+"Puglia" : "R", 
+"Sardegna" : "A", 
+"Sicilia" : "A", 
+"Toscana" : "A", 
+"Umbria" : "A", 
+"Valle d'Aosta" : "A", 
+"Veneto" : "R",
+"note" : "Le Ordinanze dispongono il passaggio della Sardegna dal bianco all'arancione e il Molise che passa dal rosso (dal 1 marzo al 20 marzo in ROSSO) in arancione. Prorogata l'Ordinanza in scadenza relativa all'area rossa in Campania.",
+"link" : "http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5389"
 }
+ 
 ]
