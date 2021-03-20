@@ -455,6 +455,7 @@
   , 
   {
 "data" : "2021-03-19T17:00:00", 
+    "data_IT_format" : "19/03/2021",
 "Abruzzo" : "0.95", 
 "Basilicata" : "1.25", 
 "Calabria" : "1.36", 
