@@ -117,6 +117,13 @@
 "data" : "11/03/2021", 
 "attualmente_positivi" : "232",
 "link" : "https://m.facebook.com/1026799124050958/posts/3995732313824276/?d=n"
+},
+  {
+"data" : "20/03/2021", 
+"attualmente_positivi" : "212",
+    "prima_dose" : "2100",
+    "seconda_dose" : "818",
+"link" : "https://www.facebook.com/donatelli.sindaco/posts/4021225921274915"
 }
 
 ]
