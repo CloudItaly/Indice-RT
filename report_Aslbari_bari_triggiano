@@ -1,0 +1,25 @@
+[
+{
+"pubblicazione_report" : "",
+"data_inizio" : "",
+"data_fine" : "", 
+"nuovi_casi_triggiano" : "", 
+"tasso_su_cento_triggiano" : "", 
+"nuovi_casi_provbari" : "", 
+"tasso_su_cento_provbari" : "", 
+"triggiano_prima_dose" : "", 
+"triggiano_seconda_dose" : ""
+}, 
+{
+"pubblicazione_report" : "02/04/2021",
+"data_inizio" : "22/03/2021",
+"data_fine" : "28/03/2021", 
+"nuovi_casi_triggiano" : "84", 
+"tasso_su_cento_triggiano" : "316,9", 
+"nuovi_casi_provbari" : "4552", 
+"tasso_su_cento_provbari" : "370", 
+"triggiano_prima_dose" : "2741", 
+"triggiano_seconda_dose" : "1279"
+}
+
+]
