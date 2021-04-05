@@ -340,4 +340,34 @@
 "note" : "La regione LAZIO passera' in Arancione solo dal 30 marzo. Nei giorni 3,4 e 5 aprile 2021, sull’intero territorio nazionale si applicheranno le misure stabilite per la zona rossa.",
 "link" : "http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5398"
 }
+ , 
+ {
+ "data_inizio" : "06-04-2021", 
+ "data_fine" : "11-04-2021",
+ "data" : "2021-03-02",
+"Abruzzo" : "A", 
+"Basilicata" : "A", 
+"Calabria" : "R", 
+"Campania" : "R	",
+"Emilia Romagna" : "R",
+"Friuli Venezia Giulia" : "R", 
+"Lazio" : "A", 
+"Liguria" : "A", 
+"Lombardia" : "R", 
+"Marche" : "A", 
+"Molise" : "A", 
+"Piemonte" : "R", 
+"PA Bolzano/Bozen" : "A",
+"PA Trento" : "A",
+"Puglia" : "R", 
+"Sardegna" : "A", 
+"Sicilia" : "A", 
+"Toscana" : "R", 
+"Umbria" : "A", 
+"Valle d'Aosta" : "R", 
+"Veneto" : "A",
+"note" : "",
+"link" : "http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5409"
+}
+
 ]
