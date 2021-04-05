@@ -348,7 +348,7 @@
 "Abruzzo" : "A", 
 "Basilicata" : "A", 
 "Calabria" : "R", 
-"Campania" : "R	",
+"Campania" : "R",
 "Emilia Romagna" : "R",
 "Friuli Venezia Giulia" : "R", 
 "Lazio" : "A", 
@@ -366,7 +366,7 @@
 "Umbria" : "A", 
 "Valle d'Aosta" : "R", 
 "Veneto" : "A",
-"note" : "",
+"note" : "null",
 "link" : "http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5409"
 }
 
