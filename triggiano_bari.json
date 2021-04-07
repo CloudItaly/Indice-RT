@@ -133,6 +133,16 @@
     "prima_dose" : "2100",
     "seconda_dose" : "818",
 "link" : "https://www.facebook.com/1026799124050958/posts/4034250759972431/?d=n"
+},
+
+
+  {
+"data" : "07/04/2021", 
+"attualmente_positivi" : "245",
+"variazione_positivi" : "+1",
+    "prima_dose" : "",
+    "seconda_dose" : "",
+"link" : "https://www.facebook.com/1026799124050958/posts/4075621205835386/?d=n"
 }
 
 ]
