@@ -21,5 +21,18 @@
 "triggiano_prima_dose" : "2741", 
 "triggiano_seconda_dose" : "1279"
 }
+  , 
+{
+"pubblicazione_report" : "09/04/2021",
+"data_inizio" : "29/03/2021",
+"data_fine" : "04/04/2021", 
+"nuovi_casi_triggiano" : "83", 
+"tasso_su_cento_triggiano" : "313,1", 
+"nuovi_casi_provbari" : "4071", 
+"tasso_su_cento_provbari" : "330,9", 
+"triggiano_prima_dose" : "3176", 
+"triggiano_seconda_dose" : "1429"
+}
+  
 
 ]
