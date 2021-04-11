@@ -469,7 +469,7 @@
 "Molise" : "0.89", 
 "Piemonte" : "1.33", 
 "PA Bolzano/Bozen" : "0.59",
-"PA Trento" : "0..91",
+"PA Trento" : "0.91",
 "Puglia" : "1.24", 
 "Sardegna" : "1.08", 
 "Sicilia" : "1.05", 
@@ -536,6 +536,31 @@
 "note" : "Report 46 | periodo di riferimento: 22/03/2021-28/03/2021",
 "link" : "https://www.iss.it/documents/20126/0/Monitoraggio+Fase+2_+report_nazionale_46_finale.pdf/05ddecf6-b52b-6632-2dd7-da5d2b0dbfff?t=1617371111526"
 }
-
+, { "data" : "2021-04-09T17:00:00", 
+    "data_IT_format" : "09/04/2021",
+	"Abruzzo" : "0.89", 
+"Basilicata" : "1.15", 
+"Calabria" : "0.93", 
+"Campania" : "1.19",
+"Emilia Romagna" : "0.81",
+"Friuli Venezia Giulia" : "0.79", 
+"Lazio" : "0.9", 
+"Liguria" : "1.19", 
+"Lombardia" : "0.85", 
+"Marche" : "0.86", 
+"Molise" : "0.81", 
+"Piemonte" : "0.9", 
+"PA Bolzano/Bozen" : "0.91",
+"PA Trento" : "0.86",
+"Puglia" : "1.06", 
+"Sardegna" : "1.54", 
+"Sicilia" : "1.22", 
+"Toscana" : "1.02", 
+"Umbria" : "0.97", 
+"Valle d'Aosta" : "1.39", 
+"Veneto" : "0.96",
+"note" : "Report 47 | periodo di riferimento: 29/03/2021-04/04/2021",
+"link" : "http://www.salute.gov.it/imgs/C_17_monitoraggi_53_0_fileNazionale.pdf"
+  }
 ]
 
