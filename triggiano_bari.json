@@ -144,5 +144,16 @@
     "seconda_dose" : "",
 "link" : "https://www.facebook.com/1026799124050958/posts/4075621205835386/?d=n"
 }
+,
 
+
+  {
+"data" : "14/04/2021", 
+"attualmente_positivi" : "207",
+    "nuovi_casi_sindaco" : "+24", 
+"variazione_positivi" : "-38",
+    "prima_dose" : "",
+    "seconda_dose" : "",
+"link" : "https://www.facebook.com/donatelli.sindaco/posts/4095474177183422"
+}
 ]
