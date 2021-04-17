@@ -32,6 +32,17 @@
 "tasso_su_cento_provbari" : "330,9", 
 "triggiano_prima_dose" : "3176", 
 "triggiano_seconda_dose" : "1429"
+  , 
+{
+"pubblicazione_report" : "16/04/2021",
+"data_inizio" : "05/04/2021",
+"data_fine" : "11/04/2021", 
+"nuovi_casi_triggiano" : "58", 
+"tasso_su_cento_triggiano" : "218,8", 
+"nuovi_casi_provbari" : "3021", 
+"tasso_su_cento_provbari" : "245,6", 
+"triggiano_prima_dose" : "4188", 
+"triggiano_seconda_dose" : "1632"
 }
   
 
