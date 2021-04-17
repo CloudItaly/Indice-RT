@@ -396,7 +396,7 @@
 "Veneto" : "A",
 "note" : "Per poter passare a una zona meno restrittiva (da rosso ad arancione per esempio) bisogna mantenere i requisiti compatibili con lo scenario migliore per almeno due settimane. Questo però vale solo per l'Rt (sopra l'1.25) e il rischio ma non per l'incidenza dei 250 casi per la quale basta una settimana. Per questo motivo le regioni che venerdì scorso erano rosse solo per l'automatismo dei 250 casi possono tornare arancioni già questa settimana se l'incidenza cala sotto i 250 e gli altri parametri restano buoni.",
 "link" : "http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5420"
-} , 
+} , {
    "data_inizio" : "19-04-2021", 
  "data_fine" : "25-04-2021",
  "data" : "2021-04-09",
