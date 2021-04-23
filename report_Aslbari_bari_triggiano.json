@@ -47,5 +47,35 @@
 "triggiano_seconda_dose" : "1632"
 }
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  . 
+  , 
+{
+"pubblicazione_report" : "23/04/2021",
+"data_inizio" : "12/04/2021",
+"data_fine" : "18/04/2021", 
+"nuovi_casi_triggiano" : "60", 
+"tasso_su_cento_triggiano" : "226", 
+  "tasso_su_cento_puglia" : "X", 
+    "tasso_su_cento_italia" : "X", 
+"nuovi_casi_provbari" : "2945", 
+"tasso_su_cento_provbari" : "239,4", 
+"triggiano_prima_dose" : "5335", 
+"triggiano_seconda_dose" : "1830",
+  "Link" : "https://www.sanita.puglia.it/documents/25619/145108072/Report+n+7.pdf/6e311adb-dc98-4f21-999d-122c6a29cee0"
+}
+  
+  
+  
 
 ]
