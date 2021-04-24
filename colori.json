@@ -423,5 +423,33 @@
 "Veneto" : "A",
 "note" : "La Puglia e Valle d'Aosta saranno in zona rossa fino al 30 aprile 2021 (salvo nuova riclassificazione). ",
 "link" : "http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5433"
- }
+ }, 
+ {
+   "data_inizio" : "26-04-2021", 
+ "data_fine" : "02-05-2021",
+ "data" : "2021-04-23", 
+"Abruzzo" : "G", 
+"Basilicata" : "A", 
+"Calabria" : "A", 
+"Campania" : "G",
+"Emilia Romagna" : "G",
+"Friuli Venezia Giulia" : "G", 
+"Lazio" : "G", 
+"Liguria" : "G", 
+"Lombardia" : "G", 
+"Marche" : "G", 
+"Molise" : "G", 
+"Piemonte" : "G", 
+"PA Bolzano/Bozen" : "G",
+"PA Trento" : "G",
+"Puglia" : "A", 
+"Sardegna" : "R", 
+"Sicilia" : "A", 
+"Toscana" : "G", 
+"Umbria" : "G", 
+"Valle d'Aosta" : "A", 
+"Veneto" : "G",
+"note" : "",
+"link" : "http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5443"
+}
 ]
