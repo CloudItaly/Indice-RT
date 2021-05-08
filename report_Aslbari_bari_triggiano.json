@@ -78,4 +78,26 @@
   "Link" : "https://www.sanita.puglia.it/documents/25619/145108072/REPORT+n.+8.pdf/fc4bb71b-0ad7-42b2-9392-10975a123822", 
   "link_incidenza" : "http://www.salute.gov.it/imgs/C_17_monitoraggi_56_2_fileNazionale.pdf"
 }
+  
+  ,
+  {
+"pubblicazione_report" : "07/05/2021",
+"data_inizio" : "26/04/2021",
+"data_fine" : "02/05/2021", 
+    "inizio_incidenza_italia" : "30/04/2021",
+    "fine_incidenza_italia" : "06/05/2021", 
+"nuovi_casi_triggiano" : "16", 
+"tasso_su_cento_triggiano" : "60,4", 
+  "tasso_su_cento_puglia" : "170", 
+    "tasso_su_cento_italia" : "123", 
+"nuovi_casi_provbari" : "1800", 
+"tasso_su_cento_provbari" : "146", 
+"triggiano_prima_dose" : "7341", 
+"triggiano_seconda_dose" : "2710",
+  "Link" : "https://www.sanita.puglia.it/documents/25619/145108072/Report+n.9+..pdf/64bd20e2-2a16-4e0f-91a2-8261ed86b08c", 
+  "link_incidenza" : "http://www.salute.gov.it/imgs/C_17_monitoraggi_58_2_fileNazionale.pdf"
+}
+  
+  
+  
 ]
