@@ -510,6 +510,37 @@
 "Veneto" : "G",
 "note" : "",
 "link" : "http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5475"
+},
+ 
+ 
+
+
+"data_inizio" : "17-05-2021", 
+ "data_fine" : "23-05-2021",
+"Abruzzo" : "G", 
+"Basilicata" : "G", 
+"Calabria" : "G", 
+"Campania" : "G",
+"Emilia Romagna" : "G",
+"Friuli Venezia Giulia" : "G", 
+"Lazio" : "G", 
+"Liguria" : "G", 
+"Lombardia" : "G", 
+"Marche" : "G", 
+"Molise" : "G", 
+"Piemonte" : "G", 
+"PA Bolzano/Bozen" : "G",
+"PA Trento" : "G",
+"Puglia" : "G", 
+"Sardegna" : "G", 
+"Sicilia" : "G", 
+"Toscana" : "G", 
+"Umbria" : "G", 
+"Valle d'Aosta" : "A", 
+"Veneto" : "G",
+"note" : "",
+"link" : "https://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5484"
 }
+ 
  
 ]
