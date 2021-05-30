@@ -732,6 +732,34 @@
 "note" : "Report 53 | periodo di riferimento: a 10/05/2021 - 16/05/2021",
 "link" : "https://www.salute.gov.it/imgs/C_17_monitoraggi_60_0_fileNazionale.pdf"
 }
+	,
+	{
+	"data" : "2021-05-28T17:00:00", 
+    "data_IT_format" : "28/05/2021",
+	"Abruzzo" : "0.8", 
+"Basilicata" : "0.69", 
+"Calabria" : "0.81", 
+"Campania" : "0.71",
+"Emilia Romagna" : "0.72",
+"Friuli Venezia Giulia" : "0.62", 
+"Lazio" : "0.74", 
+"Liguria" : "0.69", 
+"Lombardia" : "0.69", 
+"Marche" : "0.82", 
+"Molise" : "1", 
+"Piemonte" : "0.7", 
+"PA Bolzano/Bozen" : "0.87",
+"PA Trento" : "0.89",
+"Puglia" : "0.66", 
+"Sardegna" : "0.5", 
+"Sicilia" : "0.76", 
+"Toscana" : "0.79", 
+"Umbria" : "0.85", 
+"Valle d'Aosta" : "0.8", 
+"Veneto" : "0.69",
+	"note" : "Report 54 | periodo di riferimento: a 17/5/2021-23/5/2021",
+"link" : "https://www.salute.gov.it/imgs/C_17_monitoraggi_61_0_fileNazionale.pdf"
+	}
 	
 ]
 
