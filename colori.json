@@ -627,7 +627,35 @@
 "note" : "",
 "link" : "https://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5510"
 }
- 
+ , 
+ {
+    "data_inizio" : "21-06-2021", 
+    "data_fine" : "27-06-2021",
+    "data" : "2021-06-18",
+"Abruzzo" : "B", 
+"Basilicata" : "B", 
+"Calabria" : "B", 
+"Campania" : "B",
+"Emilia Romagna" : "B",
+"Friuli Venezia Giulia" : "B", 
+"Lazio" : "B", 
+"Liguria" : "B", 
+"Lombardia" : "B", 
+"Marche" : "B", 
+"Molise" : "B", 
+"Piemonte" : "", 
+"PA Bolzano/Bozen" : "B",
+"PA Trento" : "B",
+"Puglia" : "B", 
+"Sardegna" : "B", 
+"Sicilia" : "B", 
+"Toscana" : "B", 
+"Umbria" : "B", 
+"Valle d'Aosta" : "G", 
+"Veneto" : "B",
+"note" : "",
+"link" : "https://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5526"
+}
  
  
  
