@@ -1,5 +1,3 @@
-{
-"data" : "", 
 "Abruzzo" : "", 
 "Basilicata" : "", 
 "Calabria" : "", 
@@ -11,9 +9,9 @@
 "Lombardia" : "", 
 "Marche" : "", 
 "Molise" : "", 
-"Piemonte" : "", 
 "PA Bolzano/Bozen" : "",
 "PA Trento" : "",
+"Piemonte" : "", 
 "Puglia" : "", 
 "Sardegna" : "", 
 "Sicilia" : "", 
@@ -21,6 +19,3 @@
 "Umbria" : "", 
 "Valle d'Aosta" : "", 
 "Veneto" : "",
-"note" : "",
-"link" : ""
-},
