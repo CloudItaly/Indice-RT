@@ -846,7 +846,8 @@
 "link" : "https://www.salute.gov.it/imgs/C_17_monitoraggi_65_0_fileNazionale.pdf"
 },
 	{	"data" : "2021-06-25T17:00:00", 
-    "data_IT_format" : "25/06/2021", "Abruzzo" : "0.74", 
+    "data_IT_format" : "25/06/2021", 
+	 "Abruzzo" : "0.74", 
 "Basilicata" : "1", 
 "Calabria" : "0.68", 
 "Campania" : "0.61",
@@ -870,6 +871,34 @@
 "note" : "Report 58 | periodo di riferimento dal a 14/6/2021-20/6/2021",
 "link" : "https://www.salute.gov.it/imgs/C_17_monitoraggi_66_0_fileNazionale.pdf"
 	}
+	
+	,
+	{"data" : "2021-07-02T17:00:00", 
+    "data_IT_format" : "02/07/2021", 
+"Abruzzo" : "0.81", 
+"Basilicata" : "1.35", 
+"Calabria" : "0.73", 
+"Campania" : "0.51",
+"Emilia Romagna" : "0.6",
+"Friuli Venezia Giulia" : "0.81", 
+"Lazio" : "0.59", 
+"Liguria" : "0.81", 
+"Lombardia" : "0.6", 
+"Marche" : "0.74", 
+"Molise" : "0", 
+"Piemonte" : "0.56", 
+"PA Bolzano/Bozen" : "0.51",
+"PA Trento" : "0.62",
+"Puglia" : "0.76", 
+"Sardegna" : "0.96", 
+"Sicilia" : "0.75", 
+"Toscana" : "0.58", 
+"Umbria" : "0.97", 
+"Valle d'Aosta" : "0.77", 
+"Veneto" : "0.65",
+"note" : "Report 59 | periodo di riferimento dal 21/6/2021-27/6/2021",
+"link" : "https://www.salute.gov.it/imgs/C_17_monitoraggi_67_0_fileNazionale.pdf"}
+	
 	
 ]
 
