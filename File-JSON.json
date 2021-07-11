@@ -899,9 +899,9 @@
 "note" : "Report 59 | periodo di riferimento dal 21/6/2021-27/6/2021",
 "link" : "https://www.salute.gov.it/imgs/C_17_monitoraggi_67_0_fileNazionale.pdf"}
 ,
-	{"data" : "2021-07-09T17:00:00", 
+	{
+		"data" : "2021-07-09T17:00:00", 
     "data_IT_format" : "09/07/2021", 
-	
 	"Abruzzo" : "1.09", 
 "Basilicata" : "0.92", 
 "Calabria" : "0.72", 
@@ -913,7 +913,7 @@
 "Lombardia" : "0.64", 
 "Marche" : "0.44", 
 "Molise" : "0.46", 
-"Piemonte" : 0.5"", 
+"Piemonte" : "0.5"", 
 "PA Bolzano/Bozen" : "0.53",
 "PA Trento" : "0.76",
 "Puglia" : "0.59", 
