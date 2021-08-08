@@ -43,5 +43,19 @@
    {
       "intervallo_date":"9-15 luglio 2021",
       "incidenza":"8.2"
+   }, 
+      {
+      "intervallo_date":"16-22 luglio 2021",
+      "incidenza":"15.7"
+   }
+   , 
+      {
+      "intervallo_date":"23-29 luglio 2021",
+      "incidenza":"23.8"
+   }
+   , 
+      {
+      "intervallo_date":"30 luglio-05 agosto 2021",
+      "incidenza":"35.5"
    }
 ]
