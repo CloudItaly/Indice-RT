@@ -659,7 +659,7 @@
  , 
  {
     "data_inizio" : "28-06-2021", 
-    "data_fine" : "04-07-2021",
+    "data_fine" : "29-08-2021",
     "data" : "2021-06-25",
 "Abruzzo" : "B", 
 "Basilicata" : "B", 
@@ -684,6 +684,35 @@
 "Veneto" : "B",
 "note" : "",
 "link" : "https://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5539"
+}
+ , 
+ {
+    "data_inizio" : "30-08-2021", 
+    "data_fine" : "05-09-2021",
+    "data" : "2021-08-28",
+"Abruzzo" : "B", 
+"Basilicata" : "B", 
+"Calabria" : "B", 
+"Campania" : "B",
+"Emilia Romagna" : "B",
+"Friuli Venezia Giulia" : "B", 
+"Lazio" : "B", 
+"Liguria" : "B", 
+"Lombardia" : "B", 
+"Marche" : "B", 
+"Molise" : "B", 
+"Piemonte" : "B", 
+"PA Bolzano/Bozen" : "B",
+"PA Trento" : "B",
+"Puglia" : "B", 
+"Sardegna" : "B", 
+"Sicilia" : "G", 
+"Toscana" : "B", 
+"Umbria" : "B", 
+"Valle d'Aosta" : "B", 
+"Veneto" : "B",
+"note" : "",
+"link" : "non disponibile"
 }
  
  
