@@ -80,7 +80,13 @@
             {
       "intervallo_date":" 03 settembre - 9 settembre 2021",
       "incidenza":"35.2"
+   },
+   
+       {
+      "intervallo_date":"10-16 settembre 2021",
+      "incidenza":"32.1"
    }
+   
 ]
 
 
