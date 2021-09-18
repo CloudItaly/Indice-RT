@@ -1170,7 +1170,34 @@
 "link" : "https://www.salute.gov.it/imgs/C_17_monitoraggi_78_0_fileNazionale.pdf"
 
 
-	}
+	},
+	
+	{"data" : "2021-09-17T17:00:00", 
+    "data_IT_format" : "17/09/2021",
+	"Abruzzo" : "0.78", 
+"Basilicata" : "0.97", 
+"Calabria" : "0.74", 
+"Campania" : "0.82",
+"Emilia Romagna" : "0.77",
+"Friuli Venezia Giulia" : "0.96", 
+"Lazio" : "0.74", 
+"Liguria" : "0.84", 
+"Lombardia" : "1", 
+"Marche" : "1.27", 
+"Molise" : "1.55", 
+"Piemonte" : "0.91", 
+"PA Bolzano/Bozen" : "0.94",
+"PA Trento" : "0.69",
+"Puglia" : "0.89", 
+"Sardegna" : "0.6", 
+"Sicilia" : "0.82", 
+"Toscana" : "0.81", 
+"Umbria" : "0.8", 
+"Valle d'Aosta" : "0.59", 
+"Veneto" : "0.8",
+"note" : "Report 70 | periodo di riferimento dal 06/09/2021 - 12/09/2021",
+"link" : "https://www.salute.gov.it/imgs/C_17_monitoraggi_79_0_fileNazionale.pdf"
+}
 	
 	
 
