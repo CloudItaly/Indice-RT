@@ -1227,7 +1227,8 @@
 "link" : "https://www.salute.gov.it/imgs/C_17_monitoraggi_80_0_fileNazionale.pdf"}
 	
 	, 
-	{data" : "2021-10-01T17:00:00", 
+	{
+		"data" : "2021-10-01T17:00:00", 
     "data_IT_format" : "01/10/2021",
 	"Abruzzo" : "0.86", 
 "Basilicata" : "0.98", 
@@ -1253,6 +1254,33 @@
 "note" : "Report 72 | periodo di riferimento dal 20/9/2021-26/9/2021",
 "link" : "https://www.iss.it/documents/20126/0/Monitoraggio+Fase+2_+report_nazionale_72_finale.pdf/657ae269-c9f0-cc74-53a6-f37e8ed966f6?t=1633104546969"
 	}
-
+,
+	{
+		"data" : "2021-10-08T17:00:00", 
+    "data_IT_format" : "08/10/2021",
+	"Abruzzo" : "0.73", 
+"Basilicata" : "1.13", 
+"Calabria" : "0.81", 
+"Campania" : "0.94",
+"Emilia Romagna" : "0.8",
+"Friuli Venezia Giulia" : "0.76", 
+"Lazio" : "1.02", 
+"Liguria" : "0.74", 
+"Lombardia" : "0.82", 
+"Marche" : "0.91", 
+"Molise" : "0.91", 
+"Piemonte" : "0.86", 
+"PA Bolzano/Bozen" : "0.79",
+"PA Trento" : "0.87",
+"Puglia" : "0.92", 
+"Sardegna" : "0.63", 
+"Sicilia" : "0.76", 
+"Toscana" : "0.79", 
+"Umbria" : "0.87", 
+"Valle d'Aosta" : "1.33", 
+"Veneto" : "0.79",
+"note" : "Report 73 | periodo di riferimento dal 27/09/2021 - 03/10/2021",
+"link" : "https://www.salute.gov.it/imgs/C_17_monitoraggi_82_0_fileNazionale.pdf"
+	}
 ]
 
