@@ -93,8 +93,17 @@
       "intervallo_date":"17 - 23 settembre 2021",
       "incidenza":"25.4"
    }
-   
-   
+   ,
+       {
+      "intervallo_date":"24 - 30 settembre 2021",
+      "incidenza":"23.8"
+   }
+,
+       {
+      "intervallo_date":" 01-07 ottobre 2021",
+      "incidenza":"21.0"
+   }
+
    
    
 ]
