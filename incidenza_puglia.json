@@ -100,10 +100,14 @@
    }
 ,
        {
-      "intervallo_date":" 01-07 ottobre 2021",
+      "intervallo_date": "01-07 ottobre 2021",
       "incidenza":"21.0"
    }
-
+, 
+        {
+      "intervallo_date": " 08-14 ottobre 2021",
+      "incidenza":"17.0"
+   }
    
    
 ]
