@@ -118,7 +118,16 @@
       "intervallo_date": " 22 - 28 ottobre 2021",
       "incidenza":"35.1"
    }
-   
+     ,
+     {
+      "intervallo_date": " 29 ottobre - 4 novembre 2021",
+      "incidenza":"31.9"
+   }
+        ,
+     {
+      "intervallo_date": " 5-11 novembre",
+      "incidenza":"40.8"
+   }
 ]
 
 
