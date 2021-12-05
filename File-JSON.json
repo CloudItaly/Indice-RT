@@ -1442,7 +1442,37 @@
 "Valle d'Aosta" : "1.19", 
 "Veneto" : "1.23",
 "note" : "Report 79 | periodo di riferimento dal 08/11/2021 - 14/11/2021",
-"link" : "https://www.salute.gov.it/imgs/C_17_monitoraggi_88_0_fileNazionale.pdf"}
+"link" : "https://www.salute.gov.it/imgs/C_17_monitoraggi_88_0_fileNazionale.pdf"} , 
+	
+	{"data" : "2021-11-26T17:00:00", 
+    "data_IT_format" : "26/11/2021",
+	
+	"Abruzzo" : "1.21", 
+"Basilicata" : "1.42", 
+"Calabria" : "1", 
+"Campania" : "1.16",
+"Emilia Romagna" : "1.26",
+"Friuli Venezia Giulia" : "1.18", 
+"Lazio" : "1.22", 
+"Liguria" : "1.43", 
+"Lombardia" : "1.34", 
+"Marche" : "1.27", 
+"Molise" : "1.51", 
+"Piemonte" : "1.21", 
+"PA Bolzano/Bozen" : "1.5",
+"PA Trento" : "1.15",
+"Puglia" : "1.05", 
+"Sardegna" : "1.36", 
+"Sicilia" : "1.18", 
+"Toscana" : "1.11", 
+"Umbria" : "1.15", 
+"Valle d'Aosta" : "1.99", 
+"Veneto" : "1.35",
+"note" : "Report 80 | periodo di riferimento dal 15/11/2021 - 21/11/2021",
+"link" : "https://www.salute.gov.it/imgs/C_17_monitoraggi_89_0_fileNazionale.pdf"
+}
+	
+	
 ]
 
 
