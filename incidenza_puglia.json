@@ -133,6 +133,16 @@
       "intervallo_date": " 12-18 novembre",
       "incidenza":"40"
    }
+   ,
+     {
+      "intervallo_date": " 19-25 novembre",
+      "incidenza":"38.2"
+   }
+     ,
+     {
+      "intervallo_date": " 26 novembre al 02/12/2021",
+      "incidenza":"46.7"
+   }
    
 ]
 
