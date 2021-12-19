@@ -1528,7 +1528,34 @@
 "note" : "Report 82 | periodo di riferimento dal 29/11/2021 - 05/12/2021",
 "link" : "https://www.salute.gov.it/imgs/C_17_monitoraggi_91_0_fileNazionale.pdf"
 }
-	
+	, 
+	{
+	"data" : "2021-12-17T17:00:00", 
+    "data_IT_format" : "17/12/2021",
+	"Abruzzo" : "1.08", 
+"Basilicata" : "1.14", 
+"Calabria" : "1.12", 
+"Campania" : "1.12",
+"Emilia Romagna" : "1.15",
+"Friuli Venezia Giulia" : "1.02", 
+"Lazio" : "1.01", 
+"Liguria" : "1.18", 
+"Lombardia" : "1.19", 
+"Marche" : "1.13", 
+"Molise" : "0.48", 
+"Piemonte" : "1.36", 
+"PA Bolzano/Bozen" : "0.96",
+"PA Trento" : "1.38",
+"Puglia" : "1.21", 
+"Sardegna" : "1.03", 
+"Sicilia" : "1.02", 
+"Toscana" : "1.23", 
+"Umbria" : "1.09", 
+"Valle d'Aosta" : "1.23", 
+"Veneto" : "1.15",
+"note" : "Report 83 | periodo di riferimento dal 06/12/2021 - 12/12/2021",
+"link" : "https://www.salute.gov.it/imgs/C_17_monitoraggi_92_0_fileNazionale.pdf"
+}
 ]
 
 
