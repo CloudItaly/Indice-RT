@@ -157,7 +157,11 @@
       "intervallo_date": "17/12/2021 al 23/12/2021",
       "incidenza":"127.6"
    }
-   
+    ,
+     {
+      "intervallo_date": "24/12/2021 al 30/12/2021",
+      "incidenza":"332"
+   }
    
 ]
 
