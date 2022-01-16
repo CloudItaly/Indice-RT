@@ -1641,7 +1641,7 @@
 "data" : "2022-01-07T17:00:00",
 "data_IT_format" : "07/01/2022"
 	},
-	"Abruzzo" : "1.44",
+	{ "Abruzzo" : "1.44",
 "Basilicata" : "2.3",
 "Calabria" : "1.22",
 "Campania" : "2.16",
