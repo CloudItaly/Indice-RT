@@ -180,8 +180,14 @@
    ,
      {
       "intervallo_date": " 21-27 gennaio 2022",
-      "incidenza":"1443"
+      "incidenza":"1443.6"
    }
+    ,
+     {
+      "intervallo_date": " 28 gennaio 2022 - 03 febbraio 2022",
+      "incidenza":"1187.3"
+   }
+   
 ]
 
 
