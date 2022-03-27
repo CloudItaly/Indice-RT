@@ -1923,8 +1923,8 @@
 "Lombardia" : "1.14",
 "Marche" : "0.81",
 "Molise" : "0.78",
-"Piemonte" : "",
-"PA Bolzano/Bozen" : "11.24",
+"Piemonte" : "1",
+"PA Bolzano/Bozen" : "1.24",
 "PA Trento" : "1.02",
 "Puglia" : "1.2",
 "Sardegna" : "1.22",
@@ -1938,7 +1938,7 @@
 "data" : "25/03/2022T17:00:00",
 "data_IT_format" : "25/03/2022" 
 
-
+	}
 
 ]
 
