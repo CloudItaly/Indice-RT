@@ -195,6 +195,37 @@
      {
       "intervallo_date": " 11 febbraio 2022 - 17 febbraio 2022",
       "incidenza":"789.1"
+   }, 
+     {
+      "intervallo_date": "18/02/2022 - 24/02/2022",
+      "incidenza":"684.6"
+   },
+   
+     {
+      "intervallo_date": "25/02/2022 - 03/03/2022",
+      "incidenza":"564.5"
+   }, 
+      {
+      "intervallo_date": "04/03/2022 - 10/03/2022",
+      "incidenza":"694"
+   }, 
+
+      {
+      "intervallo_date": "11/03/2022 - 17/03/2022",
+      "incidenza":"1060.2"
+   }, 
+
+     {
+      "intervallo_date": "18/03/2022 - 24/03/2022",
+      "incidenza":"1352"
+   }, 
+      {
+      "intervallo_date": "25/03/2022 - 31/03/2022",
+      "incidenza":"1281"
+   }, 
+      {
+      "intervallo_date": "01/04/2022 - 07/04/2022",
+      "incidenza":"1042.7"
    }
 ]
 
