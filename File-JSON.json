@@ -2017,8 +2017,35 @@
 "Veneto" : "1.05",
 "link" : "https://www.salute.gov.it/imgs/C_17_monitoraggi_110_0_fileNazionale.pdf",
 "note" : "Report 100 | periodo di riferimento dal 04/04/2022 al 10/04/2022",
-"data" : "1970-01-01T17:00:00",
+"data" : "2022-04-15T17:00:00",
 "data_IT_format" : "15/04/2022"
+}, 
+    {
+"Abruzzo" : "0.97",
+"Basilicata" : "0.8",
+"Calabria" : "1.32",
+"Campania" : "0.69",
+"Emilia Romagna" : "1.03",
+"Friuli Venezia Giulia" : "0.99",
+"Lazio" : "0.85",
+"Liguria" : "1.31",
+"Lombardia" : "0.95",
+"Marche" : "1.01",
+"Molise" : "1.58",
+"Piemonte" : "0.97",
+"PA Bolzano/Bozen" : "0.89",
+"PA Trento" : "1.03",
+"Puglia" : "0.84",
+"Sardegna" : "0.75",
+"Sicilia" : "0.77",
+"Toscana" : "0.84",
+"Umbria" : "1.4",
+"Valle d'Aosta" : "1.65",
+"Veneto" : "1",
+"link" : "https://www.salute.gov.it/imgs/C_17_monitoraggi_111_0_fileNazionale.pdf",
+"note" : "Report 101 | periodo di riferimento dal 11/04/2022 al 17/04/2022",
+"data" : "2022-04-22T17:00:00",
+"data_IT_format" : "22/04/2022"
 }
 
 ]
