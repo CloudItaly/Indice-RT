@@ -235,7 +235,11 @@
       "intervallo_date": "15/04/2022 - 21/04/2022",
       "incidenza":"811.1"
    }
-    
+    ,
+    {
+      "intervallo_date": "22/04/2022 - 28/04/2022",
+      "incidenza":"860.7"
+   }
 ]
 
 
