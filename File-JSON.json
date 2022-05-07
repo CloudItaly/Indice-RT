@@ -2073,7 +2073,37 @@
 "note" : "Report 102 | periodo di riferimento dal 18/04/2022 al 24/04/2022",
 "data" : "2022-04-29T17:00:00",
 "data_IT_format" : "29/04/2022" 
-}
+},
+    {
+       
+"Abruzzo" : "1.06",
+"Basilicata" : "1.12",
+"Calabria" : "1.02",
+"Campania" : "1.11",
+"Emilia Romagna" : "0.97",
+"Friuli Venezia Giulia" : "0.96",
+"Lazio" : "1",
+"Liguria" : "0.91",
+"Lombardia" : "0.93",
+"Marche" : "1.06",
+"Molise" : "1.44",
+"Piemonte" : "0.94",
+"PA Bolzano/Bozen" : "0.88",
+"PA Trento" : "0.97",
+"Puglia" : "0.97",
+"Sardegna" : "0.95",
+"Sicilia" : "1.05",
+"Toscana" : "0.94",
+"Umbria" : "1.09",
+"Valle d'Aosta" : "0.68",
+"Veneto" : "0.94",
+"link" : "https://www.salute.gov.it/imgs/C_17_monitoraggi_113_0_fileNazionale.pdf",
+"note" : "Report 103 | periodo di riferimento dal 25/04/2022 al 01/05/2022",
+"data" : "2022-06-05T17:00:00",
+"data_IT_format" : "06/05/2022"
+
+        
+    }
 
 
 ]
