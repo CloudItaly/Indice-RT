@@ -244,7 +244,27 @@
     {
       "intervallo_date": "29/04/2022 - 05/05/2022",
       "incidenza":"640.8"
+   },
+    {
+      "intervallo_date": "06/05/2022 - 12/05/2022",
+      "incidenza":"483.6"
+   },
+    {
+      "intervallo_date": "13/05/2022 - 19/05/2022",
+      "incidenza":"370.3"
+   },
+     {
+      "intervallo_date": "20/05/2022 - 26/05/2022",
+      "incidenza":"271.1"
    }
+,{
+      "intervallo_date": "27/05/2022 - 02/06/2022",
+      "incidenza":"213.5"
+   }
+    
+    
+    
+    
 ]
 
 
