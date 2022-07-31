@@ -262,9 +262,40 @@
       "incidenza":"213.5"
    }
     
+    ,{
+      "intervallo_date": "03/06/2022 - 09/06/2022",
+      "incidenza":"208.1"
+   }
+     
+    ,{
+      "intervallo_date": "10/06/2022 - 16/06/2022",
+      "incidenza":"297.3"
+   }
     
-    
-    
+    ,{
+      "intervallo_date": "17/06/2022 - 23/06/2022",
+      "incidenza":"492.9"
+   }
+      ,{
+      "intervallo_date": "24/06/2022 - 30/06/2022",
+      "incidenza":"788.4"
+   }
+     ,{
+      "intervallo_date": "01/07/2022 - 07/07/2022",
+      "incidenza":"1320.5"
+   }, 
+    {
+      "intervallo_date": "08/07/2022 - 14/07/2022",
+      "incidenza":"1421.9"
+   }, 
+    {
+      "intervallo_date": "15/07/2022 - 21/07/2022",
+      "incidenza":"1104.3"
+   }, 
+    {
+      "intervallo_date": "22/07/2022 - 28/07/2022",
+      "incidenza":"810.4"
+   }
 ]
 
 
