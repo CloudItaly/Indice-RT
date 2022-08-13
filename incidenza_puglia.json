@@ -300,7 +300,11 @@
     {
       "intervallo_date": "29/07/2022 - 04/08/2022",
       "incidenza":"584.6"
-   }
+   }, 
+    {
+        "intervallo_date": "05/08/2022 - 11/08/2022",
+      "incidenza":"388.9"
+    }
 ]
 
 
